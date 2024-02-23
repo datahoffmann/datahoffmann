@@ -1,16 +1,53 @@
-### Hi there 👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi+Pessoal!+👋;+Eu+sou+o+Hugo+Hoffmann+👨‍💻!;" />
+</h1>
 
-<!--
-**datahoffmann/datahoffmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## ✨ Resumo ✨
+  
+🤓 Tenho 39 anos
+<br>
+📊 Trabalho com Análise de Dados
+<br>
+📚 Estou estudando Ciência de Dados
+<br>
+👨‍🏫 Sou professor de Epidemiologia 
+<br>
+🧠 Apaixonado por Neurociência
+<br>
+![Liverpool](https://badges.aleen42.com/src/liverpool.svg) ![Bitcoin](https://badges.aleen42.com/src/bitcoin.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+
+  <h2 align="center">⚡ Estatisticas ⚡</h2>
+
+  <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=datahoffmann&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" alt="datahoffmann github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datahoffmann&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
+</div>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=datahoffmann&bg_color=0d1117&color=225566&line=1c4966&point=00ccff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
+
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=github,aws,gcp,debian,linkedin,linux,md,mint,notion,postgres,r,ubuntu" />
+</div>
+
+  ##
+ 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/datahoffmann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5565992716851" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%25d366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UC3Z7XzD-kp911sNhcnXvS4g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hugo.epidemio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;+Até+logo!+👋" />
+</h1>
