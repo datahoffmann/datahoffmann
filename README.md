@@ -6,7 +6,7 @@
 
 ## ✨ Resumo ✨
   
-🤓 Tenho 39 anos
+🤓 Tenho 40 anos
 <br>
 📊 Trabalho com Análise de Dados
 <br>
