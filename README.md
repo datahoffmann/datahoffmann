@@ -8,11 +8,9 @@
   
 🤓 Tenho 40 anos
 <br>
-📊 Trabalho com Análise de Dados
+📊 Cientista de Dados
 <br>
-📚 Estou estudando Ciência de Dados
-<br>
-👨‍🏫 Sou professor de Epidemiologia 
+👨‍🏫 Professor de Epidemiologia 
 <br>
 🧠 Apaixonado por Neurociência
 <br>
